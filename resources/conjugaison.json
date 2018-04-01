@@ -37,5 +37,57 @@
       "ils": "veulent",
       "elles": "veulent"
     }
+  },
+  "aller": {
+    "temp": "présente",
+    "conjugaison": {
+      "je": "vais",
+      "tu": "vais",
+      "elle": "va",
+      "il": "va",
+      "nous": "allons",
+      "vous": "allez",
+      "ils": "vont",
+      "elles": "vont"
+    }
+  },
+  "pouvoir": {
+    "temp": "présente",
+    "conjugaison": {
+      "je": "peux",
+      "tu": "peux",
+      "elle": "peut",
+      "il": "peut",
+      "nous": "pouvons",
+      "vous": "pouvez",
+      "ils": "peuvent",
+      "elles": "peuvent"
+    }
+  },
+  "savoir": {
+    "temp": "présente",
+    "conjugaison": {
+      "je": "sais",
+      "tu": "sais",
+      "elle": "sait",
+      "il": "sait",
+      "nous": "savons",
+      "vous": "savez",
+      "ils": "savent",
+      "elles": "savent"
+    }
+  },
+  "travailler": {
+    "temp": "présente",
+    "conjugaison": {
+      "je": "travaille",
+      "tu": "travailles",
+      "elle": "travaille",
+      "il": "travaille",
+      "nous": "travaillons",
+      "vous": "travaillez",
+      "ils": "travaillent",
+      "elles": "travaillent"
+    }
   }
 }
