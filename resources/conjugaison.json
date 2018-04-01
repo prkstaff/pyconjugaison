@@ -1,0 +1,41 @@
+{
+  "être": {
+    "temp": "présente",
+    "conjugaison": {
+      "je": "suis",
+      "tu": "es",
+      "elle": "est",
+      "il": "est",
+      "nous": "sommes",
+      "vous": "êtes",
+      "ils": "sont",
+      "elles": "sont"
+    }
+  },
+  "avoir": {
+    "temp": "présente",
+    "conjugaison": {
+      "je": "ai",
+      "tu": "as",
+      "elle": "a",
+      "il": "a",
+      "nous": "avons",
+      "vous": "avez",
+      "ils": "ont",
+      "elles": "ont"
+    }
+  },
+  "vouloir": {
+    "temp": "présente",
+    "conjugaison": {
+      "je": "veux",
+      "tu": "veux",
+      "elle": "veut",
+      "il": "veut",
+      "nous": "voulons",
+      "vous": "voulez",
+      "ils": "veulent",
+      "elles": "veulent"
+    }
+  }
+}
