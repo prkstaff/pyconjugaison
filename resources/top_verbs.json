@@ -1,0 +1,501 @@
+[{
+    "No.": 1,
+    "Verb": "être",
+    "English": "to be"
+  },
+  {
+    "No.": 2,
+    "Verb": "avoir",
+    "English": "to have"
+  },
+  {
+    "No.": 3,
+    "Verb": "pouvoir",
+    "English": "to be able (can)"
+  },
+  {
+    "No.": 4,
+    "Verb": "faire",
+    "English": "to do, to make"
+  },
+  {
+    "No.": 5,
+    "Verb": "mettre",
+    "English": "to put, to place"
+  },
+  {
+    "No.": 6,
+    "Verb": "dire",
+    "English": "to say, to tell"
+  },
+  {
+    "No.": 7,
+    "Verb": "devoir",
+    "English": "to have to , must, to owe"
+  },
+  {
+    "No.": 8,
+    "Verb": "prendre",
+    "English": "to take, to catch, to capture"
+  },
+  {
+    "No.": 9,
+    "Verb": "donner",
+    "English": "to give, to produce"
+  },
+  {
+    "No.": 10,
+    "Verb": "aller",
+    "English": "to go"
+  },
+  {
+    "No.": 11,
+    "Verb": "vouloir",
+    "English": "to want, to wish"
+  },
+  {
+    "No.": 12,
+    "Verb": "savoir",
+    "English": "to know"
+  },
+  {
+    "No.": 13,
+    "Verb": "falloir",
+    "English": "to have to"
+  },
+  {
+    "No.": 14,
+    "Verb": "voir",
+    "English": "to see"
+  },
+  {
+    "No.": 15,
+    "Verb": "demander",
+    "English": "to ask, to request"
+  },
+  {
+    "No.": 16,
+    "Verb": "trouver",
+    "English": "to find, to discover"
+  },
+  {
+    "No.": 17,
+    "Verb": "rendre",
+    "English": "to return (something), to give back"
+  },
+  {
+    "No.": 18,
+    "Verb": "venir",
+    "English": "to come"
+  },
+  {
+    "No.": 19,
+    "Verb": "passer",
+    "English": "to pass, to go past"
+  },
+  {
+    "No.": 20,
+    "Verb": "comprendre",
+    "English": "to understand, to include, to comprehend"
+  },
+  {
+    "No.": 21,
+    "Verb": "rester",
+    "English": "to stay, to remain"
+  },
+  {
+    "No.": 22,
+    "Verb": "tenir",
+    "English": "to hold, to keep"
+  },
+  {
+    "No.": 23,
+    "Verb": "porter",
+    "English": "to carry, to wear"
+  },
+  {
+    "No.": 24,
+    "Verb": "parler",
+    "English": "to speak, to talk"
+  },
+  {
+    "No.": 25,
+    "Verb": "montrer",
+    "English": "to show, to display"
+  },
+  {
+    "No.": 26,
+    "Verb": "continuer",
+    "English": "to continue"
+  },
+  {
+    "No.": 27,
+    "Verb": "penser",
+    "English": "to think"
+  },
+  {
+    "No.": 28,
+    "Verb": "suivre",
+    "English": "to follow, to pay attention"
+  },
+  {
+    "No.": 29,
+    "Verb": "connaître",
+    "English": "to know, to be acquainted with"
+  },
+  {
+    "No.": 30,
+    "Verb": "croire",
+    "English": "to believe (in)"
+  },
+  {
+    "No.": 31,
+    "Verb": "commencer",
+    "English": "to begin, to start, to commence"
+  },
+  {
+    "No.": 32,
+    "Verb": "compter",
+    "English": "to count"
+  },
+  {
+    "No.": 33,
+    "Verb": "entendre",
+    "English": "to hear, to understand"
+  },
+  {
+    "No.": 34,
+    "Verb": "attendre",
+    "English": "to wait, to expect"
+  },
+  {
+    "No.": 35,
+    "Verb": "remettre",
+    "English": "to put back (on), to replace, to deliver"
+  },
+  {
+    "No.": 36,
+    "Verb": "appeler",
+    "English": "to call, to contact"
+  },
+  {
+    "No.": 37,
+    "Verb": "permettre",
+    "English": "to permit, to allow, to enable"
+  },
+  {
+    "No.": 38,
+    "Verb": "occuper",
+    "English": "to occupy, to take up (space/time)"
+  },
+  {
+    "No.": 39,
+    "Verb": "devenir",
+    "English": "to become, to grow (into), to turn (into)"
+  },
+  {
+    "No.": 40,
+    "Verb": "partir",
+    "English": "to leave, to depart, to proceed"
+  },
+  {
+    "No.": 41,
+    "Verb": "décider",
+    "English": "to decide, to persuade"
+  },
+  {
+    "No.": 42,
+    "Verb": "arriver",
+    "English": "to arrive, to happen"
+  },
+  {
+    "No.": 43,
+    "Verb": "servir",
+    "English": "to serve"
+  },
+  {
+    "No.": 44,
+    "Verb": "sembler",
+    "English": "to seem"
+  },
+  {
+    "No.": 45,
+    "Verb": "revenir",
+    "English": "to return, to come back"
+  },
+  {
+    "No.": 46,
+    "Verb": "laisser",
+    "English": "to leave, to allow, to let"
+  },
+  {
+    "No.": 47,
+    "Verb": "recevoir",
+    "English": "to receive, to welcome"
+  },
+  {
+    "No.": 48,
+    "Verb": "répondre",
+    "English": "to answer, to reply"
+  },
+  {
+    "No.": 49,
+    "Verb": "vivre",
+    "English": "to live"
+  },
+  {
+    "No.": 50,
+    "Verb": "rappeler",
+    "English": "to call back, to remind"
+  },
+  {
+    "No.": 51,
+    "Verb": "présenter",
+    "English": "to present, to introduce"
+  },
+  {
+    "No.": 52,
+    "Verb": "accepter",
+    "English": "to accept"
+  },
+  {
+    "No.": 53,
+    "Verb": "agir",
+    "English": "to act"
+  },
+  {
+    "No.": 54,
+    "Verb": "poser",
+    "English": "to put down, to pose, to lay (something) down"
+  },
+  {
+    "No.": 55,
+    "Verb": "jouer",
+    "English": "to play, to act, to gamble"
+  },
+  {
+    "No.": 56,
+    "Verb": "reconnaître",
+    "English": "to recognize, to acknowledge"
+  },
+  {
+    "No.": 57,
+    "Verb": "choisir",
+    "English": "to choose, to select"
+  },
+  {
+    "No.": 58,
+    "Verb": "toucher",
+    "English": "to touch, to feel, to affect"
+  },
+  {
+    "No.": 59,
+    "Verb": "aimer",
+    "English": "to like, to love"
+  },
+  {
+    "No.": 60,
+    "Verb": "retrouver",
+    "English": "to find, to regain, to meet up"
+  },
+  {
+    "No.": 61,
+    "Verb": "perdre",
+    "English": "to lose, to waste"
+  },
+  {
+    "No.": 62,
+    "Verb": "expliquer",
+    "English": "to explain, to account for"
+  },
+  {
+    "No.": 63,
+    "Verb": "considérer",
+    "English": "to consider, to study"
+  },
+  {
+    "No.": 64,
+    "Verb": "ouvrir",
+    "English": "to open (up)"
+  },
+  {
+    "No.": 65,
+    "Verb": "gagner",
+    "English": "to win, to gain, to earn"
+  },
+  {
+    "No.": 66,
+    "Verb": "exister",
+    "English": "to exist"
+  },
+  {
+    "No.": 67,
+    "Verb": "refuser",
+    "English": "to refuse"
+  },
+  {
+    "No.": 68,
+    "Verb": "lire",
+    "English": "to read"
+  },
+  {
+    "No.": 69,
+    "Verb": "réussir",
+    "English": "to succeed"
+  },
+  {
+    "No.": 70,
+    "Verb": "changer",
+    "English": "to change, to alter"
+  },
+  {
+    "No.": 71,
+    "Verb": "travailler",
+    "English": "to work"
+  },
+  {
+    "No.": 72,
+    "Verb": "représenter",
+    "English": "to represent, to depict, to portray"
+  },
+  {
+    "No.": 73,
+    "Verb": "assurer",
+    "English": "to secure, to assure, to insure"
+  },
+  {
+    "No.": 74,
+    "Verb": "essayer",
+    "English": "to try, to attempt"
+  },
+  {
+    "No.": 75,
+    "Verb": "empêcher",
+    "English": "to prevent, to stop"
+  },
+  {
+    "No.": 76,
+    "Verb": "sortir",
+    "English": "to go out, to leave, to exit, to come out"
+  },
+  {
+    "No.": 77,
+    "Verb": "reprendre",
+    "English": "to resume, to recover, to take back"
+  },
+  {
+    "No.": 78,
+    "Verb": "mener",
+    "English": "to lead, to conduct"
+  },
+  {
+    "No.": 79,
+    "Verb": "appartenir",
+    "English": "to belong, to concern"
+  },
+  {
+    "No.": 80,
+    "Verb": "risquer",
+    "English": "to risk"
+  },
+  {
+    "No.": 81,
+    "Verb": "concerner",
+    "English": "to concern, to affect"
+  },
+  {
+    "No.": 82,
+    "Verb": "apprendre",
+    "English": "to learn, to teach, to hear of"
+  },
+  {
+    "No.": 83,
+    "Verb": "rencontrer",
+    "English": "to meet, to encounter"
+  },
+  {
+    "No.": 84,
+    "Verb": "créer",
+    "English": "to create, to build"
+  },
+  {
+    "No.": 85,
+    "Verb": "obtenir",
+    "English": "to obtain, to get"
+  },
+  {
+    "No.": 86,
+    "Verb": "chercher",
+    "English": "to look for, to seek"
+  },
+  {
+    "No.": 87,
+    "Verb": "entrer",
+    "English": "to enter, to go into"
+  },
+  {
+    "No.": 88,
+    "Verb": "proposer",
+    "English": "to suggest, to propose, to offer"
+  },
+  {
+    "No.": 89,
+    "Verb": "apporter",
+    "English": "to bring, to cause"
+  },
+  {
+    "No.": 90,
+    "Verb": "utiliser",
+    "English": "to use, to employ"
+  },
+  {
+    "No.": 91,
+    "Verb": "atteindre",
+    "English": "to reach, to attain, to achieve"
+  },
+  {
+    "No.": 92,
+    "Verb": "tenter",
+    "English": "to tempt"
+  },
+  {
+    "No.": 93,
+    "Verb": "importer",
+    "English": "to import, to matter"
+  },
+  {
+    "No.": 94,
+    "Verb": "ajouter",
+    "English": "to add"
+  },
+  {
+    "No.": 95,
+    "Verb": "produire",
+    "English": "to produce"
+  },
+  {
+    "No.": 96,
+    "Verb": "préparer",
+    "English": "to prepare (something), to make"
+  },
+  {
+    "No.": 97,
+    "Verb": "relever",
+    "English": "to raise, to stand up, to pick up"
+  },
+  {
+    "No.": 98,
+    "Verb": "écrire",
+    "English": "to write"
+  },
+  {
+    "No.": 99,
+    "Verb": "défendre",
+    "English": "to defend, to stand up for, to forbid"
+  },
+  {
+    "No.": 100,
+    "Verb": "tirer",
+    "English": "to pull, to draw (curtains, sword), to fire (gun), to print"
+  }
+]
