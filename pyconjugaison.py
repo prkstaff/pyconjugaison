@@ -10,9 +10,10 @@ from termcolor import colored
 
 class ConjugaisonTeacher:
     def __init__(self):
+        self.consecutives_corrects = 0;
         self.question_template = colored("Q: ", "blue") + "Answ: {} - {} - {}:"
         self.conjugaisons = self.load_conjugaisons()
-
+        self.wrong_attemps = []
 
     def run(self, minutes):
         timeout = time.time() + 60*minutes
@@ -23,6 +24,8 @@ class ConjugaisonTeacher:
                 print(colored("SUPER!", "green"))
 
     def get_random_exercise(self):
+        if self.wrong_attemps and self.consecutives_corrects > 1:
+            return self.wrong_attemps.pop(0)
         verbs = [x for x in self.conjugaisons]
         random_verb = random.choice(verbs)
         pronoms = [x for x in self.conjugaisons[random_verb]['conjugaison']]
@@ -55,6 +58,10 @@ class ConjugaisonTeacher:
         correct = answer == right_answer
         if not correct:
             print(colored("Faux", "red") + "\nCorret: {}".format(right_answer))
+            self.wrong_attemps.append(kwargs)
+            self.consecutives_corrects = 0
+        else:
+            self.consecutives_corrects += 1
         return correct
 
     def test(self):
